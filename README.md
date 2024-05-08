@@ -33,3 +33,6 @@ This is a simple blog application built with Node.js and Express. It allows user
 - MongoDB
 - Mongoose
 - EJS (Embedded JavaScript) for templating
+  ## Demonstration
+  
+  https://drive.google.com/file/d/1u5G_CYaV_O11Ka-gojl0gfGr3MkJPWj4/view?usp=drive_link
